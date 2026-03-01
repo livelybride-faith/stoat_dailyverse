@@ -1,0 +1,7 @@
+services:
+  bible-bot:
+    build: .
+    container_name: stoat-dailyverse
+    restart: always
+    env_file:
+      - .env
