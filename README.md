@@ -6,7 +6,7 @@ DailyVerse for Stoat Chat
 1. Return daily verse using beta.ourmanna.com API at 5AM daily.
 
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/livelybride-faith/stoat_dailyverse/blob/main/LICENSE) file for details.
 
 ## Buy me a coffee 
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/MichelleYeow)
